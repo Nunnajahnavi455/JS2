@@ -1,0 +1,139 @@
+                                                              JAVA SCRIPT:-
+
+-Js is a scripting programming language for web interactivity.
+-light weight programming language.
+-loosely typed pl(not strictly)
+-Dynamic typed pl(we can store any value)
+JAVA                                                   JAVASCRIPT                                        PYTHON
+---------------------------------------------------------------------------------------------------------------------------------
+int eid=101;                                         var eid=101;                                        eid=101
+string ename="Rahul";                                var ename="Rahul"                                   ename="Rahul"
+
+
+- javascript extension is [.js]
+Executing the js file
+step-1 
+data.js file                             index.html
+-------------------                ------------------------
+var a=10;                               <html>
+var b=20;                                   <head>
+console.log(a+b);                                <script src='./data.js' type='text/javascript'></script>
+document.write(a=b);                        </head>
+                                             <body>
+                                               </body>
+                                       </html>
+
+-in evey js internally it is having javascript engine is there.
+->Julia is a programming language.its extension is [.julia]
+
+ROAD MAP:-
+============
+JS-Intro
+JS-statements,comments
+JS-Identifiers &Rules,keywords.
+JS-DataTypes
+JS-Operators
+JS-control flow statements -|1)condition statements
+                            |2)Iterative statements
+JS-Functions
+
+PART-2
+========
+JS-Arrays
+JS-object
+JS-String
+JS-Date&Time
+JS-Events
+JS-DOM
+JS-()=>{}/Flat Arrow functions
+
+PART-3
+========
+OOP-JS
+JS-class
+   object
+   constructor
+-------------------
+Abstraction || Encapsulation
+Inheritance || Polymorphism
+JS-Error Handling
+
+PART:-4
+=======
+JS-ES6 Features
+ECMA Script-6 New Features
+ let,constant
+-class
+-${}
+-()=>{}
+-import/export
+-Array New Methods -
+->map()
+->for each()
+->filter()
+->find()
+->reduce()
+=>a synchronous 
+a)callback
+b)promise
+c)asynchronous&await
+==>clouser
+JS-set
+
+
+
+
+keywors:-
+java:-50+2  [oracle]
+python:-35+1  [PSF]
+javascript:-63+ [mosirila developer [MDN]]
+
+
+EXecution of javascript:-
+-----------------------------
+=>By using browser ,and Nodejs we will execute the JS program.
+=>compiler are interpreter are doing high level code to low level code.
+=>compiler:-it will analyse the whole code at a time and if error occurs then it stops the execution.
+=>Interpretator:-It execute code line by line.
+=>JS is interpretator.
+=>
+creating one variable           one function               one class           one object
+==================================================================================
+var eid=101;                   function getbal(){        class Emp{              var emp{
+                                     return 100;
+                               }                         }                       }
+
+
+
+IDENTIFIER RULES:-
+==================
+1)should contain a to Z
+                 A TO Z
+                 0 to 9
+                   $
+2)should not start with 0 to 9.
+3)should not contain any special characters.
+4)should not use keywords as identifiers.
+5)case sensitive.
+
+=>name in JS is called 
+
+CREATE a variable:-
+----------------------
+var eid=101;
+
+READ a variable:-
+-----------------------
+<h1>eid</h1>
+command prompt:-
+console.log(eid)
+
+UPDATE a variable:-
+-----------------
+eid=400
+
+DELETE a variable:-
+---------------------------
+delete eid;
+
+
