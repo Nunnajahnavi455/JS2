@@ -1,0 +1,42 @@
+data types:-
+true/false  -reserved literal
+undefined - a data type the variable value is not intialised  then it is called as un defined.
+null      - a special keyword represent nothing/null value
+
+symbol    -
+bigint    -
+
+                               NON PREMITIVE  DATA TYPE
+object
+1)JS Array    -[]
+2)JS object   -{}
+1)JS Array:-here group of individual elements as one entity.
+let colors=['w','R','B','G' ]
+let enames=["rahul","sonia","priyanka"]
+=>group[ of elements as one entity]
+=>where allowed heterogenous elements.[Heterogenious means dissimilar elements]
+=>where allowed duplicates
+
+   CREATE 
+------------------
+var sizes=[38,40,43,44]
+var a=[10,Rahul,true,undefined]
+var b=[10,20,30,40,50,10]
+ READ
+ --------
+ console.log(sizes)
+ console.log(a)
+ console.log(b)
+ UPDATE
+ ----------
+
+
+
+ 2)JS OBJECT:-
+ -group of key:values are as one entity.
+ -group of properties property name:property value
+ -duplicate keys are not allowed
+ let emp={
+    'id':101,
+    'name':"rahul"
+     }
