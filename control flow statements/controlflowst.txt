@@ -1,0 +1,38 @@
+CONDITIONAL STATEMENTS:-
+===============================
+1)if(  ){
+
+}
+2)if(  ){
+
+}else{
+
+
+}
+
+3)switch
+      case1
+        break
+      case2:
+         break
+    default
+
+ITERATION STATEMENT:-
+--------------------------------
+
+
+
+
+syntax of conditional statement:-
+======================================
+if(condition st){
+    //true block
+}
+
+let sal=5000
+if(sal >40000){
+    console.log("eligble for"marriage")
+}
+else{
+    console.log("not eligible)
+}
