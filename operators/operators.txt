@@ -1,0 +1,12 @@
+JS OPERATORS:-
+====================
+Arithematic OPERATOR   : +,-,*,/,%,2*3
+________________________________________________________
+Logical OPERATOR       : &&    ||
+Relational OPERATOR    : <,<=,>,>=,!=
+equality OPERATOR      :  = = ,  ===[strict equality]
+________________________________________________________  [these operations perform then the output will be in true/false]
+Ternary OPERATOR       : _____?___________:_____
+inner/decimal OPERATOR :   ++       --
+Assignment OPERATOR    :   =, +=,-=,*=
+Bitwise OPERATOR       :   _
