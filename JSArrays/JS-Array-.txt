@@ -1,0 +1,27 @@
+JS-Array:-
+------------
+-group of elements/values as one entity.
+-where allowed duplicates&heterogeneous elements.
+-Array elements are stored in based on indexing.indexing is strting from [0 to n-1],here negative indexing is not possible.
+-insertion order maintained.[insertion means where we are storing that way is called insertion order]
+-JS-Array is a itterable object.[we can iterate using for loop,while lop,dowhile loop,forof]
+
+
+
+
+
+
+CREATE:-
+let a=[10,20,30,40,50]
+let b=[10,20,30,40,"Rahul",True]
+let eids=[101,102,103,104
+
+READ:-
+------
+clg(a)
+clg(b)
+//how to read array elements -using indexing
+clg(eids[0])
+clg(eids[1])
+clg(eids[2])
+clg(eids[12])  //here out will be undefined.because of indexing.

@@ -36,3 +36,23 @@ if(sal >40000){
 else{
     console.log("not eligible)
 }
+
+
+
+
+
+for(intialization statement;conditional statement;increment/decrement){
+    statement
+}
+--------------------------------------------------------------------------
+while(condition statement){
+    statement-1
+    increment/decrement
+}
+----------------------------------------------------------------------------
+do{
+    clg(i)
+    i++
+}
+while(i<=5)
+---------------------------------------------------------------------------------
