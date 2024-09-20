@@ -1,0 +1,52 @@
+JS object:-
+-group of key:value pairs as one entity.
+-group of properties.
+-duplicate keys are not applicable.
+-indexing concept not applicable.
+
+
+
+
+CREATE:-
+let a ={}
+let emp={
+    id:101,
+    ename:"rahul",
+    sal:45000
+    loc:"waynad"
+}
+
+
+
+
+READ:-
+-in js object it can read using properties only.
+clg(a)
+clg(emp)
+clg(typeof emp)
+
+
+let e names=['RG','SG','PG','MN','AS']
+//index       0     1   2     3    4
+-js array is itterable object
+-for
+-while
+-do while  // above 3 three are using indexing
+-for of
+for(ename of enames){
+    clg(enames)
+}
+
+2)for in
+let emp={
+    eid:101
+    ename:'Rg'
+    esal:45000
+}
+clg(emp.eid)
+clg(emp.ename)
+clg(emp.esal)  //here we use indexing
+-for in
+for(prop in emp){
+    clg(prop)
+}
