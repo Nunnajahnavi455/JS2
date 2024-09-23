@@ -1,0 +1,10 @@
+JS FUNCTIONS:-
+->group of statements for specific task.
+->redability& reusability.
+->function greet(){
+    clg("gm")
+    clg("gf")
+    clg("ge")
+}
+->create ones invoke many times.
+->invoking the function,
