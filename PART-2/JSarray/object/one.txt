@@ -1,0 +1,4 @@
+push():-appending the element and of array.
+pop():-remove last element from the array.
+shift():-remove first element from array
+unshift():-adding element begining of array
