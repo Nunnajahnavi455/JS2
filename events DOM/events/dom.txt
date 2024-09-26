@@ -1,0 +1,11 @@
+EVENTS   DOM:-
+thses are three types
+1)Mouse                 2)Form            3)Browser
+->on click            ->on focus         ->
+->onmouseover         ->on blur
+->on mouse move       ->on input
+                      ->on update
+                      ->on key press
+
+
+DOM:-Document Object Manipulating.
