@@ -1,0 +1,9 @@
+flat Arrow function:-it means another alternative function /ananymous function.   ()=>{}
+here there will be no function key word,no name ,no function block
+=>for avoiding errorss[undefined] in js we use flatArrow function
+advantages:-1)less code/consize code.
+2)impllicit return
+3)this:- this is a pointer, pointing to current object.here this keyword return empty object {}.
+4)function overriding and conflict resolved.
+
+
