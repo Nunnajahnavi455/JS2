@@ -1,13 +1,9 @@
 class parent{
-    constructor(){
-        console.log("parent class - constructor")
-    }
+    assets='100CR'
 }
+
 class child extends parent{
-    constructor(){
-        super()
-        console.log("child class constructor")
-    }
+        qualities="Good"
 }
-new child()
-    
+let c1=new child()
+console.log(c1)

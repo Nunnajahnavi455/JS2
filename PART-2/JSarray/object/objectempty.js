@@ -1,11 +1,11 @@
 let users={
     uname:"Rahul",
-    uloc:"waynad",
+    loc:"waynad",
     avail:"true",
     email:"rg@gmail.com"
 }
-console.log(user.name)
-console.log(user.length)
-console.log(object.keys(user))
-console.log(object.keys(user).length)
-console.log(object.keys(user).length>0)
+console.log(users.uname)
+// console.log(users.length)
+console.log(object.keys(users))
+console.log(object.keys(users).length)
+console.log(object.keys(users).length>0)
