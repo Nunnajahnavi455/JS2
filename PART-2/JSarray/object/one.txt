@@ -2,3 +2,12 @@ push():-appending the element and of array.
 pop():-remove last element from the array.
 shift():-remove first element from array
 unshift():-adding element begining of array
+
+
+js Array:-
+its a collection of heterogeneous elements.and allowed duplicate values and insertion order is going to maintain.
+
+let arr=[10,20,5,"Rahul",true,{},[],null,10]
+//indexing 
+let a=[10,20,30,40]
+
