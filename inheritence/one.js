@@ -1,4 +1,4 @@
-//INHERITENCE:- reusing the existing 
+//INHERITENCE:- reusing the existing functionality and adding new feature
 //
 class parent{
      assests='100cR'
