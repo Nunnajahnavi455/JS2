@@ -16,3 +16,12 @@ var wish=()=>{
     console.log("GN")
 }
 wish()
+
+// var wish=()=>{
+//     console.log("Good Morning")
+// }
+// wish()
+// var wish=()=>{
+//     console.log("GOOD NIGHT")
+// }
+// wish()
